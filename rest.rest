@@ -1,0 +1,9 @@
+//MUST INSTALL REST Client Extension in order to use this
+GET  http://localhost:8080/bookings HTTP/1.1
+# content-type: application/json
+ 
+# {
+# "customer_name": "Sham",  
+# "customer_phoneNumber": "01126523032",
+# "status": ["ongoing"]
+# }

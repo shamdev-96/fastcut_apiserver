@@ -1,0 +1,17 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "RESTFul node_api",
+  "main": "server.js",
+  "scripts": {
+    "test": "error"
+  },
+  "author": "syafisham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.17.1",
+    "mongoose": "^5.7.7",
+    "mongod": "2.0.0"
+  }
+}
